@@ -1,0 +1,5 @@
+*.weights
+*.pptx
+opencv_yolo_sessions/session3/esp32-cam-yolo-object-detection/YOLO/
+myenv
+opencv_yolo_sessions/session3/esp32-cam-yolo-object-detection/YOLO/
